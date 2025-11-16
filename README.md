@@ -1,7 +1,7 @@
 # Hi, I'm Abdulkafi 👋
 
 🎓 Computer Science student  
-💻 Interested in Desktop App, Problem Solving
+💻 Interested in Desktop App, Problem Solving  
 🚀 Currently learning: C++, Java, Git, Algorithms and Data Structures
 
 ## 🔧 Technologies & Tools
