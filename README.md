@@ -5,7 +5,7 @@
 🚀 Currently learning: C++, Java, Git, Algorithms and Data Structures
 
 ## 🔧 Technologies & Tools
-- Languages: C++, Java
+- Languages: C\C++, Java
 - Tools: Git, GitHub, VS Code, Visual Studio  
 
 ## 📚 Projects
