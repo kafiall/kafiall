@@ -6,7 +6,7 @@
 
 ## 🔧 Technologies & Tools
 - Languages: C\C++, Java
-- Tools: Git, GitHub, VS Code, Visual Studio  
+- Tools: Linux, Git, GitHub, VS Code, Visual Studio  
 
 ## 📚 Projects
 Here are some projects I’m currently building:
